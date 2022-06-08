@@ -2,7 +2,9 @@
 title: "Predictive Modeling for Flight Fare"
 author: "Tom Takeuchi"
 date: '2020-12-11'
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
