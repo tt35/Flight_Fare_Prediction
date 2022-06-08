@@ -1,4 +1,4 @@
-**Project Page** [Flight Fare Prediction](https://rpubs.com/tt35/715170)
+**Project Page**: [Flight Fare Prediction](https://rpubs.com/tt35/715170)
 
 ![image](https://user-images.githubusercontent.com/58647594/172680796-0f73d713-369c-4c6c-993c-33b935ab8b90.png)
 ![image](https://user-images.githubusercontent.com/58647594/172680873-9c11f05d-6dc6-4dfb-bb3d-a7c48182f96d.png)
